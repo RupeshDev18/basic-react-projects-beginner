@@ -1,0 +1,29 @@
+What is React?
+Open source library for building user interfaces.
+Not a framework
+Focus on UI
+Rich EcoSystem
+
+
+
+Why learn React?
+Created and maintained by Facebook
+More than 100k starts on Github
+Huge community
+In demand skillset
+
+
+Component Based Architecture
+
+Reusable Code
+
+React is declarative.
+Tell React what you want and React will build the actual UI
+React will handle efficiently updating and rendering of the Components
+DOM updates are handles gracefully in React.
+
+seamlessly integrate react into any of your applications.
+Portion of your page or a complete page or even an entire application itself.
+React native for mobile applications.
+
+
